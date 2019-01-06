@@ -42,7 +42,8 @@ a.btn{
 	background-color:rgb(210, 193, 216);
 	font-weight: 800;
 	text-align: center;
-	font-size: 1.2rem;
+	font-size: 1rem;
+	margin: 16px
 }
 
 hr{
