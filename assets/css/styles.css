@@ -166,6 +166,7 @@ header nav li:last-child{
 ----------------*/
 
 .hero{
+	border: 1px solid red;
 	position: relative;
 	justify-content: center;
 	min-height: 100vh;
@@ -180,6 +181,7 @@ header nav li:last-child{
 	left: 0;
 	width: 100%;
 	height: 100%;
+
 	background-size: cover;
 	background-color: #fff;
 	z-index: -1;
@@ -197,18 +199,18 @@ header nav li:last-child{
 }
 
 .hero h1{
-	font-size: 130px;
+	font-size: 150px;
 	margin-bottom: 15px;
 	font-family: 'Tangerine', cursive;
-	font-weight: 200;
-	color: rgb(210, 193, 216);
+	font-weight: 300;
+	color: rgb(59, 39, 66);
 }
 
 .hero h3{
 	font: normal 28px 'Open Sans', sans-serif;
 	margin-bottom: 40px;
 	font-family: 'Poiret One', cursive;
-	color: rgb(210, 193, 216);
+	color: rgb(59, 39, 66);
 }
 
 .hero a.btn{
